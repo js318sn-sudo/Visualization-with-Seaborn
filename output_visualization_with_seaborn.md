@@ -2,11 +2,11 @@
 
 ## Correlation Matrix
 
-Correlation Matrix Output Saved: correlation_matrix.png
+![Correlation Matrix](correlation_matrix.png)
 
 ## Heatmap
 
-Heatmap Output Saved: heatmap.png
+![Heatmap](heatmap.png)
 
 ## Insights
 
