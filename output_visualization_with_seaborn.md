@@ -69,9 +69,6 @@ Salary            0.852476  1.000000    0.958043          0.877091
 Experience        0.933613  0.958043    1.000000          0.860617
 PerformanceScore  0.833104  0.877091    0.860617          1.000000
 
-===== Correlation Matrix Output =====
-Correlation Matrix displayed successfully.
-
 
 ## Correlation Matrix
 
