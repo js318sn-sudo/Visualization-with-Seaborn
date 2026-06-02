@@ -94,6 +94,14 @@ plt.show()
 
 ---
 
+data-visualization-with-seaborn-correlations-and-heatmaps/
+│
+├── README.md
+├── seaborn_heatmap.py
+├── correlation_matrix.png
+├── heatmap.png
+└── requirements.txt
+
 # Visualization
 
 ## Correlation Matrix
